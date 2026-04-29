@@ -6,7 +6,11 @@ nonono
 hiiii
 
 
+<<<<<<< HEAD
 sainaaaa
 
 
 This is my first change from VS Code using Git workflow.
+=======
+hellooooo 
+>>>>>>> origin/main
